@@ -1,1 +1,5 @@
-export { default as Button } from "./Button";
+import { Button } from "./Button";
+
+export const components = {
+  Button
+}
