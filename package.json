@@ -1,6 +1,6 @@
 {
   "name": "@egov3/npm-ts",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A system-design NPM package in Typescript",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
